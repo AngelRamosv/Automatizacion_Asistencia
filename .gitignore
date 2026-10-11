@@ -1,0 +1,17 @@
+# Archivos sensibles (¡No subir credenciales a GitHub!)
+credentials.json
+
+# Archivos de logs
+log_ejecucion.log
+*.log
+
+# Carpetas temporales generadas por el bot
+semana/
+prueba/
+temp/
+archived/
+
+# Archivos de entorno y python
+__pycache__/
+*.pyc
+.env
